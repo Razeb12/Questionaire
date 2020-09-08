@@ -35,7 +35,7 @@ export default {
       questions: [],
       index: 0,
       numCorrect: 0,
-      numTotal: 20,
+      numTotal: 10,
     };
   },
   methods: {
