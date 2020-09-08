@@ -1,0 +1,144 @@
+{
+    "response_code": 0,
+    "results": [{
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The Islets of Langerhans; is found in which human organ?",
+        "correct_answer": "Pancreas",
+        "incorrect_answers": ["Kidney", "Liver", "Brain"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these stars is the largest?",
+        "correct_answer": "UY Scuti",
+        "incorrect_answers": ["VY Canis Majoris", "Betelgeuse", "RW Cephei"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the first element on the periodic table?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": ["Helium", "Oxygen", "Lithium"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the molecular formula of Glucose?",
+        "correct_answer": "C6H12O6",
+        "incorrect_answers": ["C2H4O2", "K+", "CH4"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:",
+        "correct_answer": "Haplogroup U",
+        "incorrect_answers": ["Haplogroup L", "Haplogroup T", "Haplogroup J"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the scientific name of the red fox?",
+        "correct_answer": "Vulpes Vulpes",
+        "incorrect_answers": ["Vulpes Redus", "Red Fox", "Vulpes Vulpie"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "After which Danish city is the 72th element on the periodic table named?",
+        "correct_answer": "Copenhagen",
+        "incorrect_answers": ["Odense", "Herning", "Skagen"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which is the most abundant element in the universe?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": ["Helium", "Lithium", "Oxygen"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The medical term for the belly button is which of the following?",
+        "correct_answer": "Umbilicus",
+        "incorrect_answers": ["Nevus", "Nares", "Paxillus"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What element on the periodic table has 92 electrons?",
+        "correct_answer": "Uranium",
+        "incorrect_answers": ["Sulfur", "Hydrogen", "Iron"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How much radiation does a banana emit?",
+        "correct_answer": "0.1 Microsievert",
+        "incorrect_answers": ["0.3 Microsievert", "0.5 Microsievert", "0.7 Microsievert"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the unit of electrical inductance?",
+        "correct_answer": "Henry",
+        "incorrect_answers": ["Weber", "Coulomb", "Mho"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which chemical element was originally known as Alabamine?",
+        "correct_answer": "Astatine",
+        "incorrect_answers": ["Selenium", "Antimony", "Molybdenum"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The Western Lowland Gorilla is scientifically know as?",
+        "correct_answer": "Gorilla Gorilla Gorilla",
+        "incorrect_answers": ["Gorilla Gorilla Diehli", "Gorilla Beringei Graueri", "Gorilla Beringei Beringei"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+        "correct_answer": "21",
+        "incorrect_answers": ["23", "15", "24"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "An organism described as heliotropic; has a tendancy to move towards which of these things?",
+        "correct_answer": "Light",
+        "incorrect_answers": ["Water", "Trees", "Pollen"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How many protons are in an oxygen atom?",
+        "correct_answer": "Eight",
+        "incorrect_answers": ["Four", "Two", "Six"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
+        "correct_answer": "Female Flower",
+        "incorrect_answers": ["Leaves", "Male Flower", "Root Ball"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which color cannot be produced in Roses, even through genetic alteration?",
+        "correct_answer": "Blue",
+        "incorrect_answers": ["Black", "Orange", "Brown"]
+    }, {
+        "category": "Science & Nature",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these animals belongs in class Chondrichthyes?",
+        "correct_answer": "Great white shark",
+        "incorrect_answers": ["Octopus", "Killer whale", "Catfish"]
+    }]
+}
